@@ -15,6 +15,8 @@ developers to train custom models for translation, summarization, language
 modeling and other text generation tasks.
 We provide reference implementations of various sequence modeling papers:
 
+Remove Transformers
+
 <details><summary>List of implemented papers</summary><p>
 
 - **Convolutional Neural Networks (CNN)**
